@@ -88,6 +88,7 @@ The Following Image shows different Donut Graphs Individual Graphs.
 
 ![Picsart_23-02-14_21-58-04-313](https://user-images.githubusercontent.com/124501309/218798135-f980689b-b073-4032-96e3-690e93396675.jpg)
 
+
 FINDING:
 
 1) For the 5 countries in which snapchat ads are more popular, Each country experiences an INCREASE 
@@ -98,6 +99,9 @@ FINDING:
    As an 18 year old, 75% of these ads are targeting you and some ads are targeting individuals as young as 14 years old.
 4) We should also be more mindful of the influence advertisements may have on us as we reach election dates to ensure we 
    are not influenced by biased ads, the same way we try and avoid being influenced by biased news sources.
+
+
+
 
 NOTE:
 I was going to do Dashboard color in all black and slides colors blue and grey but I though why not use Snapchat's theme
