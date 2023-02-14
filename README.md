@@ -62,19 +62,51 @@ which shows different relations between different factors. I have created five D
 
 DASHBOARD CONTAINS:
 
+1) Total 3 Bar Graphs Used in the process which are present in Dashboard.
 
+2) Total 5 Donut Graphs Used in the process which are present in Dashboard. Each donut graph has its own graph which has its own importance in analysis.
 
+3) Here 1 line Graphs and 1 Slop Graph Used in the process which are present in Dashboard.
 
+4) If you Hover over the Donut Graphs in Dashborad it shows its own graph which explain it characteristics. It is good way to show More in Less.
 
+SNAPCHAT ADS ANALYSIS DASHBOARD:
 
+The dashboard shows:
 
+   1) The User can see which country has most number of ads and which country has least.
+   2) The Dashboard will provide interactive interface of list of factors on which Snapchat Ads most and least depend upon.
+   3) The Dashboard will show how different events shape the Ads targeting based on user.
+   4) The Dashboard can compair two counties based on how much money spent on them by different top 5 companies.
+   5) The Dashboard will show the money spent on different countries from 2018 to 2019.
+ 
+DASHBOARD:
 
+![image](https://user-images.githubusercontent.com/124501309/218797091-b8bd0b76-ecb1-4e91-b252-f0443d0ee245.png)
 
+The Following Image shows different Donut Graphs Individual Graphs.
 
+![Picsart_23-02-14_21-58-04-313](https://user-images.githubusercontent.com/124501309/218798135-f980689b-b073-4032-96e3-690e93396675.jpg)
 
+FINDING:
 
+1) For the 5 countries in which snapchat ads are more popular, Each country experiences an INCREASE 
+   in the number of active ads before a Major Political Elections.
+2) Of the 29 countries in this dataset, only Denmark and Iraq have shown a decrease in spending on snapchat 
+   ads whilst all the other countries have shown an increase in spending.
+3) The younger generation must be particularly careful on the influence we allow political ads to have on our decisions. 
+   As an 18 year old, 75% of these ads are targeting you and some ads are targeting individuals as young as 14 years old.
+4) We should also be more mindful of the influence advertisements may have on us as we reach election dates to ensure we 
+   are not influenced by biased ads, the same way we try and avoid being influenced by biased news sources.
 
+NOTE:
+I was going to do Dashboard color in all black and slides colors blue and grey but I though why not use Snapchat's theme
+which is yellow and white, So I did it. But below i have included Blue and Grey Dashboard Prototype. Tell me what 
+do you think which one is Good. 
 
+![IMG_20230214_190429](https://user-images.githubusercontent.com/124501309/218799963-e3355a53-36a7-4964-a32c-7fbcea9e3efa.jpg)
+
+![Picsart_23-02-14_19-07-50-671](https://user-images.githubusercontent.com/124501309/218800000-cfd28d7e-6b86-4165-97d0-a7a0bcc08508.jpg)
 
 
 
