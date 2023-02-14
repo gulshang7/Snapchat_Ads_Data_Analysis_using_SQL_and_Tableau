@@ -41,19 +41,19 @@ STEPS:
  
 DATA VISUALIZATION:
 
-1) Vertical Bar Graph of Sum of Total number of Ads for each Country
+    1) Vertical Bar Graph of Sum of Total number of Ads for each Country
 
-2) Boxes of Total Countries, Total Impressions and Total Amount Spent on Ads
+    2) Boxes of Total Countries, Total Impressions and Total Amount Spent on Ads
 
-3) Donut Graph of Ads Targeting depending on Different factor contains Age, segments, language, Interests, gender and other factors
+    3) Donut Graph of Ads Targeting depending on Different factor contains Age, segments, language, Interests, gender and other factors
 
-4) Each Donut Graph contains its Own Graph when you hover over it.
+    4) Each Donut Graph contains its Own Graph when you hover over it.
 
-5) line Graph of when they are targeting you
+    5) line Graph of when they are targeting you
 
-6) Bar Graph of Total Impression vs Money spend by companies on Ads.
+    6) Bar Graph of Total Impression vs Money spend by companies on Ads.
 
-7) Slop Graph of money spend on each country for advertisement from 2018 to 2019.
+    7) Slop Graph of money spend on each country for advertisement from 2018 to 2019.
 
 METHODOLOGY:
 
@@ -62,13 +62,13 @@ which shows different relations between different factors. I have created five D
 
 DASHBOARD CONTAINS:
 
-1) Total 3 Bar Graphs Used in the process which are present in Dashboard.
+    1) Total 3 Bar Graphs Used in the process which are present in Dashboard.
 
-2) Total 5 Donut Graphs Used in the process which are present in Dashboard. Each donut graph has its own graph which has its own importance in analysis.
+    2) Total 5 Donut Graphs Used in the process which are present in Dashboard. Each donut graph has its own graph which has its own importance in analysis.
 
-3) Here 1 line Graphs and 1 Slop Graph Used in the process which are present in Dashboard.
+    3) Here 1 line Graphs and 1 Slop Graph Used in the process which are present in Dashboard.
 
-4) If you Hover over the Donut Graphs in Dashborad it shows its own graph which explain it characteristics. It is good way to show More in Less.
+    4) If you Hover over the Donut Graphs in Dashborad it shows its own graph which explain it characteristics. It is good way to show More in Less.
 
 SNAPCHAT ADS ANALYSIS DASHBOARD:
 
@@ -106,11 +106,5 @@ do you think which one is Good.
 
 ![IMG_20230214_190429](https://user-images.githubusercontent.com/124501309/218799963-e3355a53-36a7-4964-a32c-7fbcea9e3efa.jpg)
 
-![Picsart_23-02-14_19-07-50-671](https://user-images.githubusercontent.com/124501309/218800000-cfd28d7e-6b86-4165-97d0-a7a0bcc08508.jpg)
-
-
-
-
-
-
+![Snapchat Dashboard](https://user-images.githubusercontent.com/124501309/218800979-ceb89d21-17c7-41f7-894b-d3e3bb67adf6.png)
 
