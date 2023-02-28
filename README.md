@@ -101,8 +101,6 @@ FINDING:
    are not influenced by biased ads, the same way we try and avoid being influenced by biased news sources.
 
 
-
-
 NOTE:
 I was going to do Dashboard color in all black and slides colors blue and grey but I though why not use Snapchat's theme
 which is yellow and white, So I did it. But below i have included Blue and Grey Dashboard Prototype. Tell me what 
@@ -112,3 +110,6 @@ do you think which one is Good.
 
 ![Snapchat Dashboard](https://user-images.githubusercontent.com/124501309/218800979-ceb89d21-17c7-41f7-894b-d3e3bb67adf6.png)
 
+NOTE:
+
+I have uploaded all the files, datasets, workbook, icons above. Feel free to use this Project's resourses for your next Project. If you like this Project and Dashboard give it a Star or just tell me. It'll make me feel Good :)
