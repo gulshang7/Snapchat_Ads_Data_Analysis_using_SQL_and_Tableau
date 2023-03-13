@@ -88,7 +88,7 @@ The dashboard shows:
  
 ## DASHBOARD:
 
-![image](https://user-images.githubusercontent.com/124501309/218797091-b8bd0b76-ecb1-4e91-b252-f0443d0ee245.png)
+![Snapchat Dashboard Yellow](https://user-images.githubusercontent.com/124501309/224612942-a136431d-4ea7-4ac2-9080-74f37aafe361.png)
 
 ### The Following Image shows different Donut Graphs Individual Graphs.
 
