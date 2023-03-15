@@ -3,9 +3,10 @@
 ## LINKS:
 
 Lets Connect
-LinkedIn: https://www.linkedin.com/in/gulshan-gedam-362905209/
 
-Dashboard: https://public.tableau.com/app/profile/gulshan.gedam/viz/NetflixProject-TableauDashboard/Netflix?publish=yes
+[Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
+
+[Go to Dashboard](https://public.tableau.com/app/profile/gulshan.gedam/viz/NetflixProject-TableauDashboard/Netflix?publish=yes)
 
 ## PROJECT NAME:
 
@@ -13,7 +14,7 @@ Snapchat Ads Targeting Data Analysis Using SQl and Tableau
 
 ## ABOUT PROJECT:
 
-    •	Performed how Snapchat, a social media app Targets its audience for ads - A Data Analysis project.
+    •	Performed how Snapchat, a social media app Targets its audience for ads, full data analysis process.
 
     •	Performed Data cleaning in MS Excel and used SQl for better Data Analysis Process.
 
@@ -117,3 +118,5 @@ do you think which one is Good.
 ![Snapchat Dashboard](https://user-images.githubusercontent.com/124501309/218800979-ceb89d21-17c7-41f7-894b-d3e3bb67adf6.png)
 
 I have uploaded all the files, datasets, workbook, icons above. Feel free to use this Project's resourses for your next Project. If you like this Project and Dashboard give it a Star or just tell me. It'll make me feel Good :)
+
+[Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
